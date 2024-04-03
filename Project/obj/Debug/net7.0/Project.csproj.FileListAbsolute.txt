@@ -1,0 +1,135 @@
+H:\DesignPattern\פרויקט גמר גיט\Project\Project\bin\Debug\net7.0\Project.exe
+H:\DesignPattern\פרויקט גמר גיט\Project\Project\bin\Debug\net7.0\Project.deps.json
+H:\DesignPattern\פרויקט גמר גיט\Project\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+H:\DesignPattern\פרויקט גמר גיט\Project\Project\bin\Debug\net7.0\Project.dll
+H:\DesignPattern\פרויקט גמר גיט\Project\Project\bin\Debug\net7.0\Project.pdb
+H:\DesignPattern\פרויקט גמר גיט\Project\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+H:\DesignPattern\פרויקט גמר גיט\Project\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+H:\DesignPattern\פרויקט גמר גיט\Project\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+H:\DesignPattern\פרויקט גמר גיט\Project\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+H:\DesignPattern\פרויקט גמר גיט\Project\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+H:\DesignPattern\פרויקט גמר גיט\Project\Project\obj\Debug\net7.0\Project.dll
+H:\DesignPattern\פרויקט גמר גיט\Project\Project\obj\Debug\net7.0\refint\Project.dll
+H:\DesignPattern\פרויקט גמר גיט\Project\Project\obj\Debug\net7.0\Project.pdb
+H:\DesignPattern\פרויקט גמר גיט\Project\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+H:\DesignPattern\פרויקט גמר גיט\Project\Project\obj\Debug\net7.0\ref\Project.dll
+H:\פרויקט גמר גיט\DPGITProject\Project\bin\Debug\net7.0\Project.exe
+H:\פרויקט גמר גיט\DPGITProject\Project\bin\Debug\net7.0\Project.deps.json
+H:\פרויקט גמר גיט\DPGITProject\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+H:\פרויקט גמר גיט\DPGITProject\Project\bin\Debug\net7.0\Project.dll
+H:\פרויקט גמר גיט\DPGITProject\Project\bin\Debug\net7.0\Project.pdb
+H:\פרויקט גמר גיט\DPGITProject\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+H:\פרויקט גמר גיט\DPGITProject\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט גמר גיט\DPGITProject\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+H:\פרויקט גמר גיט\DPGITProject\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+H:\פרויקט גמר גיט\DPGITProject\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+H:\פרויקט גמר גיט\DPGITProject\Project\obj\Debug\net7.0\Project.dll
+H:\פרויקט גמר גיט\DPGITProject\Project\obj\Debug\net7.0\refint\Project.dll
+H:\פרויקט גמר גיט\DPGITProject\Project\obj\Debug\net7.0\Project.pdb
+H:\פרויקט גמר גיט\DPGITProject\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+H:\פרויקט גמר גיט\DPGITProject\Project\obj\Debug\net7.0\ref\Project.dll
+H:\מתכונים\DPGITProject\Project\bin\Debug\net7.0\Project.exe
+H:\מתכונים\DPGITProject\Project\bin\Debug\net7.0\Project.deps.json
+H:\מתכונים\DPGITProject\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+H:\מתכונים\DPGITProject\Project\bin\Debug\net7.0\Project.dll
+H:\מתכונים\DPGITProject\Project\bin\Debug\net7.0\Project.pdb
+H:\מתכונים\DPGITProject\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+H:\מתכונים\DPGITProject\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+H:\מתכונים\DPGITProject\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+H:\מתכונים\DPGITProject\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+H:\מתכונים\DPGITProject\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+H:\מתכונים\DPGITProject\Project\obj\Debug\net7.0\Project.dll
+H:\מתכונים\DPGITProject\Project\obj\Debug\net7.0\refint\Project.dll
+H:\מתכונים\DPGITProject\Project\obj\Debug\net7.0\Project.pdb
+H:\מתכונים\DPGITProject\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+H:\מתכונים\DPGITProject\Project\obj\Debug\net7.0\ref\Project.dll
+H:\DesignPattern\projectttt\DPProject\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+H:\DesignPattern\projectttt\DPProject\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+H:\DesignPattern\projectttt\DPProject\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+H:\DesignPattern\projectttt\DPProject\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+H:\DesignPattern\projectttt\DPProject\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+H:\DesignPattern\projectttt\DPProject\Project\obj\Debug\net7.0\Project.dll
+H:\DesignPattern\projectttt\DPProject\Project\obj\Debug\net7.0\refint\Project.dll
+H:\DesignPattern\projectttt\DPProject\Project\obj\Debug\net7.0\Project.pdb
+H:\DesignPattern\projectttt\DPProject\Project\bin\Debug\net7.0\Project.exe
+H:\DesignPattern\projectttt\DPProject\Project\bin\Debug\net7.0\Project.deps.json
+H:\DesignPattern\projectttt\DPProject\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+H:\DesignPattern\projectttt\DPProject\Project\bin\Debug\net7.0\Project.dll
+H:\DesignPattern\projectttt\DPProject\Project\bin\Debug\net7.0\Project.pdb
+H:\DesignPattern\projectttt\DPProject\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+H:\DesignPattern\projectttt\DPProject\Project\obj\Debug\net7.0\ref\Project.dll
+H:\חדששששששש\Project\bin\Debug\net7.0\Project.exe
+H:\חדששששששש\Project\bin\Debug\net7.0\Project.deps.json
+H:\חדששששששש\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+H:\חדששששששש\Project\bin\Debug\net7.0\Project.dll
+H:\חדששששששש\Project\bin\Debug\net7.0\Project.pdb
+H:\חדששששששש\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+H:\חדששששששש\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+H:\חדששששששש\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+H:\חדששששששש\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+H:\חדששששששש\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+H:\חדששששששש\Project\obj\Debug\net7.0\Project.dll
+H:\חדששששששש\Project\obj\Debug\net7.0\refint\Project.dll
+H:\חדששששששש\Project\obj\Debug\net7.0\Project.pdb
+H:\חדששששששש\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+H:\חדששששששש\Project\obj\Debug\net7.0\ref\Project.dll
+C:\Users\user\Desktop\חדששששששש\Project\bin\Debug\net7.0\Project.exe
+C:\Users\user\Desktop\חדששששששש\Project\bin\Debug\net7.0\Project.deps.json
+C:\Users\user\Desktop\חדששששששש\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Users\user\Desktop\חדששששששש\Project\bin\Debug\net7.0\Project.dll
+C:\Users\user\Desktop\חדששששששש\Project\bin\Debug\net7.0\Project.pdb
+C:\Users\user\Desktop\חדששששששש\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\חדששששששש\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\חדששששששש\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\חדששששששש\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Users\user\Desktop\חדששששששש\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\חדששששששש\Project\obj\Debug\net7.0\Project.dll
+C:\Users\user\Desktop\חדששששששש\Project\obj\Debug\net7.0\refint\Project.dll
+C:\Users\user\Desktop\חדששששששש\Project\obj\Debug\net7.0\Project.pdb
+C:\Users\user\Desktop\חדששששששש\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Users\user\Desktop\חדששששששש\Project\obj\Debug\net7.0\ref\Project.dll
+C:\Users\אליאסף אילה\Desktop\חדששששששש\Project\bin\Debug\net7.0\Project.exe
+C:\Users\אליאסף אילה\Desktop\חדששששששש\Project\bin\Debug\net7.0\Project.deps.json
+C:\Users\אליאסף אילה\Desktop\חדששששששש\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Users\אליאסף אילה\Desktop\חדששששששש\Project\bin\Debug\net7.0\Project.dll
+C:\Users\אליאסף אילה\Desktop\חדששששששש\Project\bin\Debug\net7.0\Project.pdb
+C:\Users\אליאסף אילה\Desktop\חדששששששש\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+C:\Users\אליאסף אילה\Desktop\חדששששששש\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אליאסף אילה\Desktop\חדששששששש\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Users\אליאסף אילה\Desktop\חדששששששש\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Users\אליאסף אילה\Desktop\חדששששששש\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\אליאסף אילה\Desktop\חדששששששש\Project\obj\Debug\net7.0\Project.dll
+C:\Users\אליאסף אילה\Desktop\חדששששששש\Project\obj\Debug\net7.0\refint\Project.dll
+C:\Users\אליאסף אילה\Desktop\חדששששששש\Project\obj\Debug\net7.0\Project.pdb
+C:\Users\אליאסף אילה\Desktop\חדששששששש\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Users\אליאסף אילה\Desktop\חדששששששש\Project\obj\Debug\net7.0\ref\Project.dll
+S:\HandesaimV\Students\Group2\אליאסף אילה\חדששששששש\Project\bin\Debug\net7.0\Project.exe
+S:\HandesaimV\Students\Group2\אליאסף אילה\חדששששששש\Project\bin\Debug\net7.0\Project.deps.json
+S:\HandesaimV\Students\Group2\אליאסף אילה\חדששששששש\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+S:\HandesaimV\Students\Group2\אליאסף אילה\חדששששששש\Project\bin\Debug\net7.0\Project.dll
+S:\HandesaimV\Students\Group2\אליאסף אילה\חדששששששש\Project\bin\Debug\net7.0\Project.pdb
+S:\HandesaimV\Students\Group2\אליאסף אילה\חדששששששש\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+S:\HandesaimV\Students\Group2\אליאסף אילה\חדששששששש\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+S:\HandesaimV\Students\Group2\אליאסף אילה\חדששששששש\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+S:\HandesaimV\Students\Group2\אליאסף אילה\חדששששששש\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+S:\HandesaimV\Students\Group2\אליאסף אילה\חדששששששש\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+S:\HandesaimV\Students\Group2\אליאסף אילה\חדששששששש\Project\obj\Debug\net7.0\Project.dll
+S:\HandesaimV\Students\Group2\אליאסף אילה\חדששששששש\Project\obj\Debug\net7.0\refint\Project.dll
+S:\HandesaimV\Students\Group2\אליאסף אילה\חדששששששש\Project\obj\Debug\net7.0\Project.pdb
+S:\HandesaimV\Students\Group2\אליאסף אילה\חדששששששש\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+S:\HandesaimV\Students\Group2\אליאסף אילה\חדששששששש\Project\obj\Debug\net7.0\ref\Project.dll
+H:\DesignPattern\‏‏פרויקט - גיט\Project\bin\Debug\net7.0\Project.exe
+H:\DesignPattern\‏‏פרויקט - גיט\Project\bin\Debug\net7.0\Project.deps.json
+H:\DesignPattern\‏‏פרויקט - גיט\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+H:\DesignPattern\‏‏פרויקט - גיט\Project\bin\Debug\net7.0\Project.dll
+H:\DesignPattern\‏‏פרויקט - גיט\Project\bin\Debug\net7.0\Project.pdb
+H:\DesignPattern\‏‏פרויקט - גיט\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+H:\DesignPattern\‏‏פרויקט - גיט\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+H:\DesignPattern\‏‏פרויקט - גיט\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+H:\DesignPattern\‏‏פרויקט - גיט\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+H:\DesignPattern\‏‏פרויקט - גיט\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+H:\DesignPattern\‏‏פרויקט - גיט\Project\obj\Debug\net7.0\Project.dll
+H:\DesignPattern\‏‏פרויקט - גיט\Project\obj\Debug\net7.0\refint\Project.dll
+H:\DesignPattern\‏‏פרויקט - גיט\Project\obj\Debug\net7.0\Project.pdb
+H:\DesignPattern\‏‏פרויקט - גיט\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+H:\DesignPattern\‏‏פרויקט - גיט\Project\obj\Debug\net7.0\ref\Project.dll
