@@ -2,8 +2,6 @@
 
 Welcome to the GIT System Simulation project! This project, developed in C#, demonstrates the use of various common design patterns to simulate the functionality of a GIT system.
 
-![Project Screenshot](link-to-screenshot.png)
-
 ## Table of Contents
 
 - [About the Project](#about-the-project)
@@ -89,10 +87,6 @@ Contributions are welcome! If you'd like to contribute to the development of thi
     git push origin feature-branch
     ```
 6. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
